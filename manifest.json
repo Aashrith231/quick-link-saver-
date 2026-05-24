@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Link Saver",
+  "version": "1.0",
+  "description": "Save links with custom notes and tags easily.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
